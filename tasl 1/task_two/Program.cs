@@ -29,7 +29,7 @@ namespace task_two
 
             Console.WriteLine("Сумма нечётных положительных: " + sum);
 
-
+            
         }
 
      
